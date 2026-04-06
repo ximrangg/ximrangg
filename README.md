@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![MSK's Discord status](https://dsc-readme.tsuni.dev/api/user/1343837511666896907?aboutMe=Hello+I%27m+MSK+!!!+%F0%9F%94%A5&theme=dark&width=512&animate=true)](https://github.com/TetraTsunami/discord-github-preview)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1343837511666896907?theme=dark&bg=0D1117&borderRadius=15px&animated=true&hideDecoration=false)](https://discord.com/users/1343837511666896907)
 
 </div>
 
@@ -26,8 +26,8 @@
 
 ```yaml
 Name     : MSK !!!
-Role     : Full Stack Developer
-Location : India,bihar
+Role     : Developer
+Location : india,bihar
 Status   : Always Coding 💻
 Mood     : Building Something Cool 🔥
 ```
@@ -46,7 +46,6 @@ Mood     : Building Something Cool 🔥
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)

@@ -7,7 +7,7 @@
   <a href="https://instagram.com/ximran.gg" target="_blank">Instagram</a>
 </p>
 
-[![imran.ly Discord status](https://dsc-readme.tsuni.dev/api/user/1343837511666896907?aboutMe=Information+%3A%0Ahttps%3A%2F%2Fxecute.me%2F%0A&theme=dark&width=512&animate=true)](https://github.com/TetraTsunami/discord-github-preview)
+[![imran.ly Discord status](https://dsc-readme.imran.ly/api/user/1343837511666896907?aboutMe=Information+%3A%0Ahttps%3A%2F%2Fxecute.me%2F%0A&theme=dark&width=512&animate=true)](https://github.com/TetraTsunami/discord-github-preview)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ximrangg&label=Profile%20views&color=0e75b6&style=flat" alt="ximrangg" />
   <a href="https://github.com/ximrangg?tab=followers">

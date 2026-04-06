@@ -1,17 +1,17 @@
-<h1 align="center">Hello, I'm Souma Goswami</h1>
+<h1 align="center">Hello, I'm MSK</h1>
 <h3 align="center">Noob Developer</h3>
 
 <p align="center">
-  <a href="https://xecute.me" target="_blank">Portfolio</a> •
-  <a href="mailto:soumogoswami2003@gmail.com">Contact</a> •
-  <a href="https://instagram.com/xecute.gg_" target="_blank">Instagram</a>
+  <a href="https://ximrangg" target="_blank">Portfolio</a> •
+  <a href="mailto:sahilahmadktr76@gmail.com">Contact</a> •
+  <a href="https://instagram.com/ximran.gg" target="_blank">Instagram</a>
 </p>
 
-[![xecuteyt.gg's Discord status](https://dsc-readme.tsuni.dev/api/user/162213250719547392?aboutMe=Information+%3A%0Ahttps%3A%2F%2Fxecute.me%2F%0A&theme=dark&width=512&animate=true)](https://github.com/TetraTsunami/discord-github-preview)
+[![imran.ly Discord status](https://dsc-readme.tsuni.dev/api/user/1343837511666896907?aboutMe=Information+%3A%0Ahttps%3A%2F%2Fxecute.me%2F%0A&theme=dark&width=512&animate=true)](https://github.com/TetraTsunami/discord-github-preview)
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xecutegg&label=Profile%20views&color=0e75b6&style=flat" alt="xecutegg" />
-  <a href="https://github.com/xecutegg?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/xecutegg?color=green&logo=github">
+  <img src="https://komarev.com/ghpvc/?username=ximrangg&label=Profile%20views&color=0e75b6&style=flat" alt="ximrangg" />
+  <a href="https://github.com/ximrangg?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ximrangg?color=green&logo=github">
   </a>
 </p>
 
